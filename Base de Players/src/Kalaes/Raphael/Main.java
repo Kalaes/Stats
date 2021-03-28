@@ -100,7 +100,7 @@ public class Main {
         p10.name = "CAMARO-WRS";
         p10.kills = 31;
         p10.assists = 11;
-        p10.deaths = 334;
+        p10.deaths = 34;
         p10.wins = 0;
         p10.losses = 3;
         p10.kd = 0.91;
