@@ -23,64 +23,66 @@ public class Main {
         Player p17 = new Player();
         Player p18 = new Player();
         Player p19 = new Player();
+        Player p20 = new Player();
+        Player p21 = new Player();
 
 
 
         p1.name = "raphael_kalaes";
-        p1.kills = 53;
-        p1.assists = 22;
-        p1.deaths = 54;
-        p1.wins = 6;
-        p1.losses = 1;
-        p1.kd = 1.02;
+        p1.kills = 86;
+        p1.assists = 34;
+        p1.deaths = 75;
+        p1.wins = 8;
+        p1.losses = 2;
+        p1.kd = 1.15;
 
         p2.name = "Maranhao_007";
-        p2.kills = 88;
-        p2.assists = 19;
-        p2.deaths = 65;
-        p2.wins = 3;
-        p2.losses = 4;
+        p2.kills = 124;
+        p2.assists = 27;
+        p2.deaths = 92;
+        p2.wins = 5;
+        p2.losses = 5;
         p2.kd = 1.35;
 
         p3.name = "BrookingSkulls";
-        p3.kills = 56;
-        p3.assists = 16;
-        p3.deaths = 42;
-        p3.wins = 2;
-        p3.losses = 3;
-        p3.kd = 1.33;
+        p3.kills = 74;
+        p3.assists = 23;
+        p3.deaths = 60;
+        p3.wins = 3;
+        p3.losses = 4;
+        p3.kd = 1.23;
 
         p4.name = "Rafa_Satriani";
-        p4.kills = 73;
-        p4.assists = 25;
-        p4.deaths = 63;
+        p4.kills = 104;
+        p4.assists = 34;
+        p4.deaths = 93;
         p4.wins = 4;
-        p4.losses = 3;
-        p4.kd = 1.16;
+        p4.losses = 6;
+        p4.kd = 1.12;
 
         p5.name = "Rmazaro";
-        p5.kills = 28;
-        p5.assists = 13;
-        p5.deaths = 63;
-        p5.wins = 1;
-        p5.losses = 6;
-        p5.kd = 0.44;
+        p5.kills = 35;
+        p5.assists = 20;
+        p5.deaths = 89;
+        p5.wins = 3;
+        p5.losses = 7;
+        p5.kd = 0.39;
 
         p6.name = "FTK-Gago";
-        p6.kills = 64;
-        p6.assists = 24;
-        p6.deaths = 55;
-        p6.wins = 3;
+        p6.kills = 98;
+        p6.assists = 34;
+        p6.deaths = 81;
+        p6.wins = 6;
         p6.losses = 3;
-        p6.kd = 1.16;
+        p6.kd = 1.21;
 
         p7.name = "rfv-_-_-_-_-mw3";
-        p7.kills = 33;
-        p7.assists = 7;
-        p7.deaths = 26;
+        p7.kills = 57;
+        p7.assists = 16;
+        p7.deaths = 46;
         p7.wins = 1;
-        p7.losses = 2;
-        p7.kd = 1.27;
+        p7.losses = 4;
+        p7.kd = 1.24;
 
         p8.name = "calogamers2001";
         p8.kills = 8;
@@ -91,12 +93,12 @@ public class Main {
         p8.kd = 1.00;
 
         p9.name = "registossu";
-        p9.kills = 47;
-        p9.assists = 17;
-        p9.deaths = 48;
-        p9.wins = 1;
+        p9.kills = 63;
+        p9.assists = 22;
+        p9.deaths = 61;
+        p9.wins = 3;
         p9.losses = 5;
-        p9.kd = 0.98;
+        p9.kd = 1.03;
 
         p10.name = "CAMARO-WRS";
         p10.kills = 31;
@@ -107,12 +109,12 @@ public class Main {
         p10.kd = 0.91;
 
         p11.name = "Im_The_New_Wat";
-        p11.kills =57;
-        p11.assists = 20;
-        p11.deaths = 51;
-        p11.wins = 3;
-        p11.losses = 3;
-        p11.kd = 1.12;
+        p11.kills =94;
+        p11.assists = 31;
+        p11.deaths = 73;
+        p11.wins = 5;
+        p11.losses = 4;
+        p11.kd = 1.29;
 
         p12.name = "yPsYcho-CP";
         p12.kills = 11;
@@ -139,12 +141,12 @@ public class Main {
         p14.kd = 0.56;
 
         p15.name = "guigamaral";
-        p15.kills = 13;
-        p15.assists = 7;
-        p15.deaths = 18;
-        p15.wins = 2;
-        p15.losses = 0;
-        p15.kd = 0.72;
+        p15.kills = 19;
+        p15.assists = 12;
+        p15.deaths = 39;
+        p15.wins = 3;
+        p15.losses = 1;
+        p15.kd = 0.49;
 
         p16.name = "yMrF1Vve-_-";
         p16.kills = 14;
@@ -163,12 +165,12 @@ public class Main {
         p17.kd = 1.57;
 
         p18.name = "Galo_Sniper";
-        p18.kills = 9;
-        p18.assists = 3;
-        p18.deaths = 14;
+        p18.kills = 16;
+        p18.assists = 5;
+        p18.deaths = 23;
         p18.wins = 2;
-        p18.losses = 0;
-        p18.kd = 0.64;
+        p18.losses = 1;
+        p18.kd = 0.70;
 
         p19.name = "Drusso843";
         p19.kills = 11;
@@ -177,6 +179,22 @@ public class Main {
         p19.wins = 1;
         p19.losses = 0;
         p19.kd = 2.20;
+
+        p20.name = "akrausert";
+        p20.kills = 4;
+        p20.assists = 2;
+        p20.deaths = 9;
+        p20.wins = 0;
+        p20.losses = 1;
+        p20.kd = 0.44;
+
+        p21.name = "M1natel_VF";
+        p21.kills = 7;
+        p21.assists = 2;
+        p21.deaths = 9;
+        p21.wins = 0;
+        p21.losses = 1;
+        p21.kd = 0.78;
 
 
 
@@ -201,6 +219,8 @@ public class Main {
         System.out.println("" + p17.toString());
         System.out.println("" + p18.toString());
         System.out.println("" + p19.toString());
+        System.out.println("" + p20.toString());
+        System.out.println("" + p21.toString());
 
 
     }
