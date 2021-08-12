@@ -1,0 +1,40 @@
+html {
+  background-image: url(https://images4.alphacoders.com/676/thumb-1920-676369.jpg);
+ background-repeat: no-repeat;
+  background-size: 1500px 750px;
+  background-color: black;
+  
+
+}
+
+h1{
+  margin: 400px 500px 50px 430px;
+  padding: 8px;
+  color: #DBFC09;
+  text-shadow: 2px 2px 1px black;
+}
+	a:link,a:visited {
+	margin: 1px 350px 1px 450px;
+  	height: 30px;
+ 	width: 300px;
+  background-color: #DBFC09;
+  color: white;
+  padding: 25px 25px;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 2px 2px 1px black;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #E8F98D;
+}
+h3{color: white;
+  font-size: 10px;
+  text-align: bottom;
+}
+p{color: white;
+  font-size: 8px;
+  text-align: bottom;
+  font-style: normal;
+}

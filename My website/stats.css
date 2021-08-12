@@ -1,0 +1,18 @@
+html {
+  background-image: url(https://images3.alphacoders.com/907/907782.png);
+ background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+h1,h2,table{
+  margin: 10px;
+  padding: 8px;
+  color: #FFFFFF;
+  text-shadow: 2px 2px 1px black;
+}
+
+.table-sortable th {
+  cursor: pointer;
+}
